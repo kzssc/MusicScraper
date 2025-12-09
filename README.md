@@ -134,7 +134,7 @@ docker run -d \
 
 **第一步：下载镜像文件**
 
-从 [Releases](https://github.com/your-username/music-scraper/releases) 页面下载：
+从 [Releases](https://github.com/SimonLYU/MusicScraper/releases) 页面下载：
 - `music-scraper-1.0-amd64.tar`（x86 架构，适用于绿联、威联通、部分群晖）
 - `music-scraper-1.0-arm64.tar`（ARM 架构，适用于部分群晖）
 
